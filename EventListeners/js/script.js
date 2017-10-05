@@ -1,4 +1,5 @@
-// JavaScript Event Listeners 
+// JavaScript Event Listeners
+// List of Event Listeners https://developer.mozilla.org/en-US/docs/Web/Events 
 // element.addEventListener(event, function)
 // Syntax ^^
 
@@ -55,3 +56,4 @@
 
 // submit
 // The submit event is fired when a form is submitted.
+// https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
